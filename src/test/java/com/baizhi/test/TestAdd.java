@@ -11,6 +11,8 @@ import org.junit.Test;
 public class TestAdd {
     @Test
     public void test() {
-        System.out.println("this id an addTest!!");
+        System.out.println("this is an addTest!!");
+        System.out.println("this is an addTest!!");
+       
     }
 }
